@@ -1,0 +1,3 @@
+/Users/markscheer/CLionProjects/C867Assessment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/markscheer/CLionProjects/C867Assessment/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/markscheer/CLionProjects/C867Assessment/cmake-build-debug/CMakeFiles/untitled2.dir
